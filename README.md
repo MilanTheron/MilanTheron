@@ -5,7 +5,7 @@ Computer Science graduate with a strong interest in building systems from the gr
 
 I work across multiple domains:
 - Game Development (Unity / C#) – Gameplay systems, mechanics design, performance-aware implementation.
-- Backend Development (Java) – API design, application architecture, clean code practices, and scalable systems.
+- Backend Development (Java, .NET) – API design, application architecture, clean code practices, and scalable systems.
 - Cybersecurity – System security principles, network fundamentals, and offensive/defensive security concepts.
 
 My goal is to grow into a well-rounded Software Engineer with a solid understanding of both software architecture and system security. I focus on building practical projects, understanding underlying mechanisms, and improving problem-solving depth rather than just stacking technologies.<br><br>Currently expanding my expertise in:
@@ -23,7 +23,6 @@ My goal is to grow into a well-rounded Software Engineer with a solid understand
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MilanTheron&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MilanTheron&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanTheron&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MilanTheron&icon=0&color=0)](https://visitcount.itsvg.in)
