@@ -5,7 +5,7 @@ Computer Science graduate with a strong interest in building systems from the gr
 
 I work across multiple domains:
 - Game Development (Unity / C#) – Gameplay systems, mechanics design, performance-aware implementation.
-- Backend Development (Java, .NET) – API design, application architecture, clean code practices, and scalable systems.
+- Backend Development (Java Spring, .NET) – API design, application architecture, clean code practices, and scalable systems.
 - Cybersecurity – System security principles, network fundamentals, and offensive/defensive security concepts.
 
 My goal is to grow into a well-rounded Software Engineer with a solid understanding of both software architecture and system security. I focus on building practical projects, understanding underlying mechanisms, and improving problem-solving depth rather than just stacking technologies.<br><br>Currently expanding my expertise in:
