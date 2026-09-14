@@ -67,7 +67,49 @@ Currently expanding my expertise in:
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-444444?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge\&logo=unity\&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=MilanTheron&icon=0&color=0)](https://visitcount.itsvg.in)
+## Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="50%">
+
+### Identity Provider
+
+Custom Identity Provider built with .NET/C# implementing:
+
+- OAuth 2.0 / OpenID Connect
+- FIDO2 / WebAuthn
+- JWT & cryptographic key management
+- Rate limiting
+- Automated testing
+- Docker deployment
+- CI/CD pipeline
+
+[**View Repository →**](https://github.com/MilanTheron/Identity_Provider_Dotnet)
+
+</td>
+
+<td width="50%">
+
+### ChapWrity
+
+Distributed collaborative platform featuring:
+
+- Multi-device synchronization
+- Append-only change logs
+- Conflict resolution
+- Paragraph-level CRDTs
+- REST APIs
+- Offline-first architecture
+
+[**View Repository →**](https://github.com/MilanTheron/ChapWrity)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+</td>
+</tr>
+</table>
