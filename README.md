@@ -106,10 +106,5 @@ Distributed collaborative platform featuring:
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-</td>
-</tr>
 </table>
+
