@@ -1,7 +1,5 @@
 # 💫 About Me:
-## About Me
-
-Computer Science graduate focused on backend, data engineering, and distributed systems.
+### Computer Science graduate focused on backend development, data engineering, and distributed systems.
 
 I primarily work with Java/Spring Boot and .NET/C#, with a strong focus on REST API design, software architecture, and database-driven applications. I also have experience with Vue and TypeScript for full-stack development.
 
@@ -11,13 +9,16 @@ I also developed an Identity Provider from scratch in .NET/C#, implementing OAut
 
 I am particularly interested in software architecture, distributed systems, data orchestration, and secure backend development.
 
-I work across multiple domains:
-- Game Development (Unity / C#) – Gameplay systems, mechanics design, performance-aware implementation.
-- Backend Development (Java Spring, .NET) – API design, application architecture, clean code practices, and scalable systems.
-- Cybersecurity – Authentication and identity systems, secure credential handling, and offensive/defensive security concepts.
-- Systems Programming – Low-level architecture exploration, including CPU emulation and distributed data structures.
+### I work across multiple domains:
+Game Development (Unity / C#) – Gameplay systems, mechanics design, and performance-aware implementation.
+Backend Development (Java/Spring, .NET) – API design, application architecture, clean code practices, and scalable systems.
+Cybersecurity – Authentication and identity systems, secure credential handling, and offensive/defensive security concepts.
+Systems Programming – Low-level architecture exploration, including CPU emulation and distributed data structures.
 
-My goal is to grow into a well-rounded Software Engineer with a solid understanding of both software architecture and system security. I focus on building practical projects, understanding underlying mechanisms, and improving problem-solving depth rather than just stacking technologies.<br><br>Currently expanding my expertise in:
+My goal is to grow into a well-rounded Software Engineer with a solid understanding of both software architecture and system security. I focus on building practical projects, understanding underlying mechanisms, and improving problem-solving depth rather than simply stacking technologies.
+
+Currently expanding my expertise in:
+
 - Software architecture & design patterns
 - Secure backend development (OAuth2/OIDC, MFA, session management)
 - Low-level and distributed systems concepts
